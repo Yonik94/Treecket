@@ -1,5 +1,7 @@
 # treecket
 
+See our projuct here: http://treecket.herokuapp.com/
+
 ## Project setup
 ```
 npm install
